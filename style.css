@@ -1,0 +1,70 @@
+#main-div{
+    background-color: yellow;
+    height: 900px;
+    position: relative;
+}
+#child-div{
+    height: 100%;
+    background-color: rgb(29,21,21);
+    position: relative;
+    margin-left: 10px;
+    margin-bottom: 10px white;
+
+}
+#my-div{
+    height: 45%;
+    position: relative;
+    background-color: yellow;
+    border: 10px solid rgb(29,21,21);
+}
+#image{
+    position: relative;
+    top: 45%;
+    left: 50%;
+    text-align: center;
+}
+#H1{
+    position: relative;
+    top: 40%;
+     left: 49%;
+     font-weight: bold;
+     font-size: 1cm;
+}
+#H2{
+    position: relative;
+    top: 40%;
+    left: 50%;
+    font-weight: bold;
+    color: white;
+    font-size: 1cm;
+}
+.R{
+    position: relative;
+    left: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 1cm;
+}
+#P{
+    position: relative;
+    left: 10px;
+    color: yellow;
+    font-weight: bold;
+    
+}
+#pm{
+    position: relative;
+    left: 10px;
+    top: 10%;
+    color: yellow;
+    font-weight: bold;
+    font-size: 1cm;
+}
+#last{
+    position: relative;
+    left: 10px;
+    top: 7%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
